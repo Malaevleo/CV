@@ -2,8 +2,8 @@
 Think of this as some kind of personal page or [glorified CV](Leonid_Malaev_CV.pdf). 
 
 ## Links
-Behance: behance.net/fad7ca35 \
-ResearchGate: researchgate.net/profile/Leonid-Malaev 
+Behance: [behance.net/fad7ca35](https://www.behance.net/fad7ca35) \
+ResearchGate: [researchgate.net/profile/Leonid-Malaev ](https://www.researchgate.net/profile/Leonid-Malaev)
 
 ## Conferences
 VII international cognitive neuroscience forum COGNITIVE NEUROSCIENCE (2024) Russia \
