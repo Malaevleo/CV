@@ -3,14 +3,19 @@ Think of this as some kind of personal page or [glorified CV](Leonid_Malaev_CV.p
 
 ## Links
 Behance: [behance.net/fad7ca35](https://www.behance.net/fad7ca35) \
-ResearchGate: [researchgate.net/profile/Leonid-Malaev ](https://www.researchgate.net/profile/Leonid-Malaev)
+ResearchGate: [researchgate.net/profile/Leonid-Malaev ](https://www.researchgate.net/profile/Leonid-Malaev) \
+Google Scholar: [https://scholar.google.com/citations?user=tZg_9L4AAAAJ&hl=ru](https://scholar.google.com/citations?user=tZg_9L4AAAAJ&hl=ru)
 
 ## Conferences
 VII international cognitive neuroscience forum COGNITIVE NEUROSCIENCE (2024) Russia \
 \
 3rd School of Young Scientists Neurotechnology and Bioelectronic Medicine (2024) Russia \
 \
-Global Conference on Gerophysics (2025) Singapore 
+Global Conference on Gerophysics (2025) Singapore \
+\
+MCCMB 2025 Russia \
+\
+VAVILOV GENETICS 2025 Russia 
 
 ## Papers
 *Dysfunction of Lamin B and Physiological Aging Cause Telomere Instability in Drosophila Germline*.Biochemistry(Mosc). 2022 Dec;87(12):1600-1610.doi:10.1134/S000629792212015X. Morgunova VV,Sokolova OA,Sizova TV, Malaev LG, Babaev DS, KwonDA, Kalmykova AI. \
@@ -20,4 +25,6 @@ Global Conference on Gerophysics (2025) Singapore
 *Telomere Checkpoint in Development and Aging*. Int. J. Mol. Sci. 2023, 24,15979. Kalmykova A. https://doi.org/10.3390/ijms242115979 
 (Acknowledgements) \
 \
-And currently I have two papers in the works. One about [somatic mutations](https://github.com/Malaevleo/dynamical_system_somatic_mutations_2024) and the other about [comparative genomics of bats](https://github.com/Malaevleo/bat_project).
+Somatic mutations impose an entropic upper bound on human lifespan. Evgeniy Efimov, Vlad Fedotov, Leonid Malaev, Ekaterina E. Khrameeva, Dmitrii Kriukov. bioRxiv 2025.11.23.689982; doi: https://doi.org/10.1101/2025.11.23.689982 \
+\
+And currently I have two papers in the works. One about ancient DNA and the other about [comparative genomics of bats](https://github.com/Malaevleo/bat_project).
